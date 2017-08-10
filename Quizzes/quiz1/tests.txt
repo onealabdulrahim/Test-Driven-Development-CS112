@@ -1,0 +1,10 @@
+sum_three_digit 123
+6
+sum_three_digit 100
+1
+sum_three_digit 20
+2
+sum_three_digit 3
+3
+sum_three_digit 987
+24
