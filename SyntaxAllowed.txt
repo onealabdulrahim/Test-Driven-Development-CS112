@@ -1,0 +1,28 @@
+PROJECT 2:
+- return (from the template file)
+- if, elif, else
+- mathematical operators +, -, *, /, //, %
+- comparison operators and, or, not, ==, != , is, >, >=, <, <=
+- strings, integers, floats
+- variable assignment
+- str(), int(), float(), input(), print
+- you may define your own helper functions (not covered until later though)
+- comments with #
+PROJECT 3:
+- anything from project 2
+- lists (declare and access with [] only), .append(), len(), index(), [:], min(), max(), .remove(), sorted()
+- while (note: NO for loops!!)
+- in
+- id()
+PROJECT 4:
+- anything from project 3
+- import of code you have written (no libraries!!)
+- declaring your own function (NO keyword arguments or default values though)
+PROJECT 5:
+- anything from project 4
+- declaring your own classes and methods
+- dictionaries (declare with {}, access with [] only), .keys(), .values()
+- file I/O (whatever you looked up online, cited)
+PROJECT 6:
+- anything from project 5
+- exceptions (try, except, as, finally, raise only), ZeroDivisionError, IOError, IndexError, KeyError, NameError, SyntaxError, TypeError, ValueError
