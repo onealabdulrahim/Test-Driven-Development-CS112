@@ -1,0 +1,20 @@
+Number.__init__ R two 4 3 Number.draw()
+'RRRR\n RR \nRRRR\n'
+Number.__init__ R two 4 3 Number.getSoften()
+False
+Number.__init__ R two 4 3 Number.getColor()
+'R'
+Number.match [['_','_','X'],['_','_','X'],['_','_','X'],['_','_','X']] Number.getType()
+'one'
+Number.match [['_','_','X'],['_','_','X'],['_','_','X'],['_','_','X']] Number.getWidth()
+3
+Number.match [['_','_','X'],['_','_','X'],['_','_','X'],['_','_','X']] Number.getHeight()
+4
+Number.match [['_','_','X'],['_','_','X'],['_','_','X'],['_','_','X']] Number.getColor()
+'R'
+Number.match [['_','_','X'],['_','_','X'],['_','_','X'],['_','X','X']] Number.getType()
+*EXCEPTION*
+Number.__init__ R two 3 4 Number.draw()
+'RRR\n R \nR  \nRRR\n'
+Number.__init__ R three 3 3 Number.draw()
+'RRR\n RR\nRRR\n'

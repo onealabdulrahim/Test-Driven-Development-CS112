@@ -1,0 +1,8 @@
+Number.__init__ R two 3 4 Number.draw()
+'RRR\n R \nR  \nRRR\n'
+Banner.__init__ hello Banner.__str__
+'hello '
+main file1.txt
+hello {'two':'R'}
+Banner.addNumber Number G Banner.__str__
+ 'hello GGG\n G \nG  \nGGG\n '
